@@ -1,0 +1,25 @@
+﻿Question,Answer
+What is the Relationship Summary,"The Relationship Summary displays all Volume Licensing Agreements and Open Licenses associated with your VLSC account. Summary details are listed by Licensing ID (licensing program) and may be expanded to display more information, including parent agreements and Microsoft Business and Services Agreement (MBSA).
+
+There are two ways for volume licensing administrators to to access and view the Relationship Summary:
+
+Sign into the VLSC, click Licenses and then click Relationship Summary. You will be brought to the Contracts page in the volume licensing section of Microsoft 365 admin center.
+Sign into the Microsoft 365 admin center, go to Billing > Your products > Volume licensing > Contracts > Create license Summary."
+What is a Licensing ID,"A Licensing ID identifies the program level at which orders can be placed by an organization. It can represent any of the following:
+
+Enrollment (Enterprise or Select programs)
+Agreement (Open Value program)
+License (Open License program)
+Public Customer Number (PCN) (Select Plus program)
+Entitlements and site permissions in the VLSC are determined by the Licensing IDs available to your company or organization."
+Where does the MPSA fit into all this,Microsoft Products and Services Agreement (MPSA) license information is managed in the Microsoft Business Center or Microsoft Store for Business. No MPSA information is displayed in the VLSC. Learn about the MPSA.
+Some Licensing IDs for my organization are not displayed in the Relationship Summary. Why,"A Licensing ID is displayed in the Relationship Summary only if the user who is signed in has been granted access to view the Licensing ID details. Permission to view a specific Licensing ID on behalf of your organization is granted in one of two ways:
+
+You are listed as a contact for the agreements in a legal Volume Licensing Program form. Contact types include Primary Contact, Notices Correspondent, Online Access Contact, Software Assurance Manager, Online Services Manager, or Subscriptions Manager.
+An Administrator with access to the agreements assigns you permission.
+For more information about VLSC permission roles and their allowable actions, see the Permissions FAQ."
+How do I update the contacts listed on Licensing Information reports,All changes to Volume Licensing Contacts must be made through your Microsoft partner. Please contact your partner to request a change in contact information.
+Some reports or report sections appear shaded or dimmed and I am unable to view the report. Why,"The hyperlinks used to access specific reports (or report sections) appear shaded or dimmed if your permission set does not allow you to access certain report content. For example, only the Select Plus Lead Affiliate has full access to licensing information for all Participating Affiliates, so other users in your organization would see links that are shaded or dimmed."
+What is the License Summary,"The License Summary displays real-time Volume License entitlements per Microsoft product family and version for all active and inactive Licensing IDs in your permission set.
+
+The License Summary displays purchase information related to traditional Microsoft Volume License programs beginning in 1994. These programs include (but are not limited to) Open, Open Value, Select, Select Plus, and Enterprise."
